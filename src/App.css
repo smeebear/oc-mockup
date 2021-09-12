@@ -12,12 +12,3 @@
   font-size: calc(10px + 2vmin);
   color: black;
 }
-
-a {
-  color: #05d806;
-}
-
-a:visited {
-  /* color: #05d806; */
-  color: #34bf44;
-}
